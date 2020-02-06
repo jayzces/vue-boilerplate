@@ -1,0 +1,19 @@
+{
+  "name": "vue-boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate for Vue Projects.",
+  "main": "index.js",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "author": "Mary Louise B. Hermosa",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^2.6.11"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^4.1.2",
+    "vue-template-compiler": "^2.6.11"
+  }
+}

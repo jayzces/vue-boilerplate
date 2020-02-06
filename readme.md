@@ -1,6 +1,6 @@
 Vue Boilerplate
 ===============
-Boilerplate for Vue Projects.
+Boilerplate for simple Vue (single-page-app) projects.
 
 ### Local Server
 ```
